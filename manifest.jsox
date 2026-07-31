@@ -1,0 +1,16 @@
+{
+  "name": "SPECIMEN — 個体観察記録",
+  "short_name": "SPECIMEN",
+  "description": "能力の可視化と任務管理",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0e13",
+  "theme_color": "#0b0e13",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
